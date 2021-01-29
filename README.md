@@ -11,14 +11,10 @@ I'll address the elephant in the room...yes, that is a live look at me coding ab
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgasbarro&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mpgasbarro" />
 </a>
 
 
