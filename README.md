@@ -9,9 +9,20 @@ I'll address the elephant in the room...yes, that is a live look at me coding ab
 - And of course GitHub you're already on (Recursion, Recursion, Recursion, Recursion.....)
 
 ## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgasbarro&theme=radical" />
+</a>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpgasbarro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mpgasbarro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
