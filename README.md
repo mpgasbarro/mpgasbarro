@@ -1,7 +1,3 @@
-
-  <img align="center" src="![Alt Text](https://media.giphy.com/media/iFU36VwXUd2O43gdcr/giphy.gif)" />
-
-
 ![Alt Text](https://media.giphy.com/media/iFU36VwXUd2O43gdcr/giphy.gif)
 
 ## A Little Bit About me
