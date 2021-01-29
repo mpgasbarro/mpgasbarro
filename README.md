@@ -9,7 +9,7 @@ I'll address the elephant in the room...yes, that is a live look at me coding ab
 - And of course GitHub you're already on (Recursion, Recursion, Recursion, Recursion.....)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpgasbarro&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
