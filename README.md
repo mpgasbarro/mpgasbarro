@@ -2,11 +2,11 @@
 
 ## A Little Bit About me
 
-I'll address the elephant in the room...yes, that is a live look at me coding above. Now that you're thoroughly impressed with my 7 WPM, I'm a software engineer who is passionate about fitness/health and their relation to technology and creating technology that makes a difference in others lives. Some technologies I enjoy working with are ReactJS, React-Native, JavaScript, Python APIs, and always pushing myself to learn more!
+I'll address the elephant in the room...yes, that is a live look at me coding above. Now that you're thoroughly impressed with my 7 WPM, I'm a software engineer who is passionate about creating technology that makes a difference in others lives and being apart of something bigger than myself! I also have a passion for fitness/health and their relation to technology. Some technologies I enjoy working with are ReactJS, React-Native, JavaScript, Python, APIs, and always pushing myself to learn more!
 
 ## Get in touch :coffee:
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/michael-gasbarro/)
-- And of course GitHub you're already on (Recursion, Recursion, Recursion, Recursion.....)
+- [LinkedIn](https://www.linkedin.com/in/michael-gasbarro/)
+- And of course GitHub, which you're already on (recursion anyone??)
 
 ## Stats
 
